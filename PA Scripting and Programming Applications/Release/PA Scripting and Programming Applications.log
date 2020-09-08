@@ -1,0 +1,9 @@
+﻿  main.cpp
+  roster.cpp
+  student.cpp
+  Generating code
+  49 of 175 functions (28.0%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PA Scripting and Programming Applications.vcxproj -> C:\Users\James\Desktop\Project\PA Scripting and Programming Applications\Release\PA Scripting and Programming Applications.exe
